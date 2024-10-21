@@ -1,6 +1,27 @@
 # **OCRify - Extract Text from Images and PDFs Seamlessly 📝🚀**  
 OCRify is an intuitive application designed to extract text from images and PDF files, leveraging the power of **Azure OCR** and **EasyOCR**. Whether you're a casual user or a premium subscriber, OCRify offers a range of features to simplify your text extraction tasks, from single-image uploads to advanced batch processing and text conversion to .docx format.
 
+
+### **Screenshots**  
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/19369425-0e60-4324-926e-ffba68cd5051)
+
+<img width="1496" alt="Screenshot 2024-10-20 at 9 30 51 PM" src="https://github.com/user-attachments/assets/560f515a-d1d8-48fd-ba41-444d0eac3514">
+
+<img width="1496" alt="Screenshot 2024-10-20 at 9 31 18 PM" src="https://github.com/user-attachments/assets/bafa30f9-2c0b-4a76-80bf-e962dc8d82dd">
+
+<img width="1451" alt="Screenshot 2024-10-20 at 10 25 17 PM" src="https://github.com/user-attachments/assets/e9faeead-7e26-482e-b8b5-3bfcf899b6cb">
+
+<img width="1444" alt="Screenshot 2024-10-20 at 10 25 30 PM" src="https://github.com/user-attachments/assets/1933144e-c3a4-425e-ac45-09332c43682b">
+
+<img width="1448" alt="Screenshot 2024-10-20 at 10 25 44 PM" src="https://github.com/user-attachments/assets/afe879bb-78df-4304-ba9d-8aeb575a6097">
+
+<img width="1496" alt="Screenshot 2024-10-20 at 10 26 20 PM" src="https://github.com/user-attachments/assets/ed5d803a-09aa-4360-8b9c-0540f4660333">
+
+<img width="1452" alt="Screenshot 2024-10-20 at 10 26 37 PM" src="https://github.com/user-attachments/assets/ba8dbe96-4290-4d03-b42c-c1fbb7d89483">
+
+<img width="1445" alt="Screenshot 2024-10-20 at 10 27 05 PM" src="https://github.com/user-attachments/assets/49729da6-c48b-4f0a-a156-eb4e498cc78d">
+
+
 ## **🔧 Key Features**  
 
 1. **Login:** 
@@ -9,11 +30,6 @@ OCRify is an intuitive application designed to extract text from images and PDF 
 4. **Image:**  
 5. **Save to word document:**  
 5. **Multiple Models Like Easy OCR, Azure AI:**  
-
-### 🆓 **For Free Users:**  
-- **Image Upload & Text Extraction:** Process individual images with Azure OCR or EasyOCR.  
-- **Entity Recognition:** Identify key information from extracted text for structured insights.  
-- **Basic PDF Processing:** Extract text from PDF files with ease.
 
 ## **🚀 How OCRify Works**  
 1. **Upload Your Files:** Select images or PDFs from your computer.  
@@ -27,10 +43,6 @@ OCRify is an intuitive application designed to extract text from images and PDF 
 
 ## **🎨 User Interface Overview**  
 OCRify offers a modern and responsive design, optimized for desktop and mobile devices. With clear navigation and intuitive workflows, users can smoothly switch between free and premium features.
-
-### **Screenshots**  
-
-
 
 ## **💻 Technology Stack**  
 ### **Backend Technologies:**  
