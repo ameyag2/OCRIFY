@@ -1,0 +1,17 @@
+{
+    "testuser123@gmail.com": {
+        "userid": "@test_user",
+        "password": "1234",
+        "access_level": "premium"
+    },
+    "freeuser@gmail.com": {
+        "userid": "@free_user",
+        "password": "1234",
+        "access_level": "free"
+    },
+    "ameyagb2@gmail.com": {
+        "userid": "2",
+        "password": "Sexa@1234",
+        "access_level": "free"
+    }
+}
